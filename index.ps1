@@ -1,5 +1,7 @@
 echo "I'm inside the script!";
 
+echo $args;
+
 $a = 1;
 $a++;
 
