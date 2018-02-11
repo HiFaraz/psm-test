@@ -1,7 +1,4 @@
 {
   "main": "index.ps1",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/HiFaraz/psm-test.git"
-  }
+  "git": "https://github.com/HiFaraz/psm-test.git"
 }
