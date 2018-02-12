@@ -1,4 +1,7 @@
 {
-  "main": "index.ps1",
-  "git": "https://github.com/HiFaraz/psm-test.git"
+  "version": "0.1.0",
+  "git": "https://github.com/HiFaraz/psm-test.git",
+  "bin": {
+    "pwr-test": "bin/pwr-test.ps1"
+  }
 }
