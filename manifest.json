@@ -1,6 +1,6 @@
 {
   "version": "0.1.0",
-  "git": "https://github.com/HiFaraz/psm-test.git",
+  "git": "https://github.com/HiFaraz/psm-test",
   "bin": {
     "pwr-test": "bin/pwr-test.ps1"
   }
